@@ -4,3 +4,4 @@ public class A {
         return "Invoking method from class A";
     }
 }
+ 
