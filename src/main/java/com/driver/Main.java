@@ -6,3 +6,4 @@ public class Main {
         System.out.println(obj.meth()); // Calls overridden method in class B
     }
 }
+
